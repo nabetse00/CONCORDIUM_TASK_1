@@ -1,6 +1,13 @@
 ### Hackathon: Concordium Hackathon - The Future of Identity
 # TASK 1: Setup Development Environment
 
+# Concordium Account address on mainnet
+
+Identity provider: Digital Trust Solutions
+
+Concordium Mainnet address:
+`4Fo1erxUgLt7wDvaoUgxxBbV3rquCWZmnzGnDA2DUzv6FFqAKk`
+
 # Step 1: Install Rust and cargo-concordium
 
 Download and run Rustup in my case for `windows 11 platform`.
@@ -137,5 +144,9 @@ The keys were successfully written to disk.
 ```
 
 ![Wallet terminal](./media/wallet_term.png)
+
+# 
+Setup development environment for Concordium Hackathon - The Future of Identity at Gitcoin
+
 
 
