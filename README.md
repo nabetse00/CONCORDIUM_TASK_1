@@ -144,9 +144,3 @@ The keys were successfully written to disk.
 ```
 
 ![Wallet terminal](./media/wallet_term.png)
-
-# 
-Setup development environment for Concordium Hackathon - The Future of Identity at Gitcoin
-
-
-
